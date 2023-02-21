@@ -1,3 +1,3 @@
-# Basic HTML CSS [Template]
+# HTML & CSS Template [Example]
 
-An Open-source HTML CSS template
+HTML & CSS Template
